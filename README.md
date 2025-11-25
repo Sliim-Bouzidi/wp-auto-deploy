@@ -45,7 +45,10 @@ Clone this repo to any folder on your server, for example `/opt/wp-auto-deploy`,
 
 ## Installation
 
-On a fresh Ubuntu/Debian server:
+On a fresh Ubuntu/Debian server, you have two options:
+
+- **Option A (simple, recommended):** just run the script and let it check/install the required packages for you when needed.
+- **Option B (manual):** install all dependencies yourself up front with `apt`:
 
 ```bash
 sudo apt update
