@@ -170,18 +170,6 @@ You can customize this template if you want to tweak caching, logging, or advanc
 - Limit SSH access and consider a firewall (UFW) and fail2ban.
 - Remove any test sites or databases you do not use.
 
-## Roadmap / ideas
-
-Some ideas to make this more useful for developers in the future:
-
-- Turn the script into a versioned CLI tool (e.g. installable with a one-liner curl or a `.deb` package).
-- Add WP-CLI integration to automate the web-based WordPress install step.
-- Add multi-distro support (CentOS/RHEL, Alpine, etc.).
-- Add an optional Docker-based setup (Nginx + PHP-FPM + DB via `docker compose`).
-- Add an “AI assistant” mode that explains each option, suggests sensible defaults, or helps debug common errors interactively.
-
-If you want, I can help implement any of these next steps and refactor the script as the project grows.
-
 ## Contributing
 
 Issues and pull requests are welcome.
