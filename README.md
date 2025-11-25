@@ -190,7 +190,3 @@ Before contributing, please:
 
 - Open an issue to discuss big changes.
 - Keep the script POSIX/Bash and easy to read.
-
-## License
-
-Choose a license that matches how you want others to use this (MIT is a common choice for tools like this).
